@@ -1,0 +1,29 @@
+_repo: The-Court-Houses-of-a-CenturyDistict-the-County-of-Middlesex-and-County-of-Elgin_35026
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKay, Kenneth W.
+    gutenberg_agent_id: '37402'
+    url: http://www.gutenberg.org/2009/agents/37402
+description: ''
+gutenberg_issued: '2011-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35026'
+  lccn: 08031265
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courts -- Ontario -- Elgin County'
+- !lcc 'F1001'
+- !lcsh 'Courts -- Ontario -- Middlesex County'
+- !lcsh 'Courthouses -- Ontario -- Toronto'
+- !lcsh 'Elgin (Ont. : County) -- History'
+title: "The Court Houses of a Century\r\nA Brief Historical Sketch of the Court Houses\
+  \ of London Distict, the County of Middlesex, and County of Elgin"
+url: http://www.gutenberg.org/ebooks/35026
