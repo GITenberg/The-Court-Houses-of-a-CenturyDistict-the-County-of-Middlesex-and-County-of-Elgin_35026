@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37402'
     url: http://www.gutenberg.org/2009/agents/37402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35026#The-Court-Houses-of-a-CenturyDistict-the-County-of-Middlesex-and-County-of-Elgin
 gutenberg_issued: '2011-01-21'
 gutenberg_type: Text
 identifiers:
